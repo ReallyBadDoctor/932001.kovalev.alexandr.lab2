@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    }
+
+.head{
+    height: 60px;
+    background-color: #EAEAEA;
+}
+
+
+.left{
+    width: 160%;
+    height: 25%;
+    background-color: #C8FC98;
+    line-height: 20px;
+    padding: 5px;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.center{
+    font-size: 14px;
+}
+
+.right{
+    width: 70%;
+    background-color: rgb(247, 230, 80);
+    line-height: 20px;
+    padding: 5px;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.foo{
+    background-color:black; 
+    text-align: center;
+    padding: 13px;
+}

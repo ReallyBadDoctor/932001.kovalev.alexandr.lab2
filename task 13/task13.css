@@ -1,0 +1,27 @@
+.list{
+    position: absolute;
+    background-color: bisque;
+    width: 100%;
+    color: black;
+}
+
+.strange{
+    position: relative;
+    background-color: aqua;
+    max-width: 100%;
+    border: 1px solid forestgreen;
+}
+
+.text{
+    position: relative;
+    background-color: darkgrey;
+    left: 15%;
+    width: 85%;
+}
+
+
+img{
+    float:right;
+    width:50%;
+    height: 70%;
+}

@@ -1,0 +1,29 @@
+.list{
+    background-color: bisque ;
+    color: black ;
+    width: 160px;
+    height: 85px;
+    position: absolute;
+}
+
+.strange{
+    background-color: aqua ;
+    width:100%;
+    position:relative;
+}
+
+.text{
+    background-color: darkgray ;
+    color: black ;
+    position: relative;
+    margin-left: 160px;
+} 
+    
+footer{
+    background-color: limegreen;
+    height: 75px;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    position: fixed;
+}
